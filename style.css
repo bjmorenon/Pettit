@@ -181,6 +181,12 @@ a {
 	cursor: pointer;
 }
 
+.uk-width-click-2{
+	width: 500px !important;
+	height: 350px !important;
+	cursor: pointer;
+}
+
 .uk-relative{
 	position: relative !important;
 }
